@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.listItem {
+  border-radius: 10px;
+  background-color: #ffffff;
+  height: 150px;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
